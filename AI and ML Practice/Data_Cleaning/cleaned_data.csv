@@ -1,0 +1,51 @@
+ID,Name,Age,Email,Join_Date,Salary,Department
+1,Grace,57,grace@mail.com,18-08-2022,"55,000",Admin
+2,Bob,41,invalidemail.com,,"49,000",IT
+3,frank,34,,16-02-2020,"69,000",Admin
+4,Isabel ,41,isabel@mail.com,08-10-2020,,it
+5,davi,31,davi@mail,2022-12-20,78828,Marketing
+6,Alic,57,alic@mail.com,2022-03-03,sixty thousand,MARKETING
+7,Charles,60,invalidemail.com,not_a_date,sixty thousand,Admin
+8,Isabel ,57,isabel@mail.com,2022-06-10,,
+9,Bob,60,bob@mail.com,08-06-2021,sixty thousand,SALES
+10,Grace,58,invalidemail.com,2021/07/22,,Finance
+11,Isabe,50,isabe@mail.com,15-06-2021,"44,000",marketing
+12,Henry,41,invalidemail.com,2021/03/28,,marketing
+13,alice,53,invalidemail.com,,sixty thousand,IT
+14,grac,43,grac@mail.com,,33033,Admin
+15,David,41,david@mail,2022-11-16,42606,Marketing
+16,Henry,55,henry@mail.com,,,Admin
+17,Grace,40,,,,hr
+18,david,41,david@mail,25-09-2022,"76,000",IT
+19,Charles,54,,,,Marketing
+20,Jack,56,,2022-08-05,,
+21,Eve,21,eve@mail.com,2023-01-04,79209,SALES
+22,Grace,45,grace@mail,,sixty thousand,
+23,bob,55,bob@mail.com,2022-12-02,sixty thousand,Marketing
+24,henry,49,henry@mail,27-11-2023,61050,
+25,Fran,41,fran@@mail.com,,,
+26,frank,41,frank@mail,,"60,000",Marketing
+27,Bob,22,bob@mail,2020-02-14,,ADMIN
+28,Jack ,38,,14-01-2020,36890,
+29,isabel,31,,,,ADMIN
+30,Jack,40,jack@mail.com,not_a_date,sixty thousand,finance
+31,David,30,david@mail.com,not_a_date,sixty thousand,sales
+32,jack,30,jack@mail.com,,76284,
+33,Alice,31,invalidemail.com,,sixty thousand,marketing
+34,Isabe,41,,,sixty thousand,hr
+35,Grace,41,grace@mail.com,2021/09/03,,IT
+36,David ,38,,17-10-2020,,admin
+37,Grac,20,,,,marketing
+38,frank,42,frank@mail,2022/03/12,"59,000",Sales
+39,Isabel,36,isabel@@mail.com,,sixty thousand,
+40,Charles,36,charles@@mail.com,2020/11/19,"41,000",
+41,Isabel,28,,,,Admin
+42,Jack,41,jack@mail,2020/02/21,,IT
+43,Grace,41,,26-03-2021,,Sales
+44,Frank,26,frank@mail.com,2020-03-06,,
+45,Jack,41,,,,Sales
+46,Henry,29,,,53454,finance
+47,Alice,41,alice@@mail.com,,,Finance
+48,Charle,46,invalidemail.com,not_a_date,sixty thousand,hr
+49,David,27,invalidemail.com,not_a_date,34431,Admin
+50,Grace,59,grace@mail,2023-05-21,60245,
